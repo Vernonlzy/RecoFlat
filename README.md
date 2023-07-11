@@ -1,7 +1,8 @@
 # RecoFlat
 
 A web application that allows users to compare HDB flat prices and make a better decision on selecting a HDB flat based on the data set from [data.gov](https://data.gov.sg/dataset/resale-flat-prices).
-This application was built with React and Typescript.
+
+This application was built with React and Typescript. [Demo](https://youtu.be/py-t21I5phc)
 
 # Contributions
 This project was built by the following:
